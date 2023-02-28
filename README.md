@@ -13,7 +13,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python  
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | SASS
+- 🌐 &nbsp; HTML | CSS | Javascript | Bootstrap | SASS
 - 🔧 &nbsp; PyCharm | Visual Studio code | Git
 
 <br>
