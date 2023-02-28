@@ -7,6 +7,7 @@
 - 🤔 &nbsp; I am looking forward to exploring and learn new technologies.
 - 🎓 &nbsp; A Mathematics and Computing graduate.
 - 💼 &nbsp; Enthusiast front-end web developer.
+- 📫 You can contact me at njorogejohn261@gmail.com
 - ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
