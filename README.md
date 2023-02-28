@@ -19,8 +19,8 @@
 <br>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=johnie261&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=johnie261&theme=nightowl&hide_border=false)<br/>
+[![](https://github-readme-stats.vercel.app/api?username=johnie261&show_icons=true&theme=nightowl&hide_border=false&)]
+![](https://github-readme-streak-stats.herokuapp.com/?user=johnie261&theme=nightowl&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=johnie261&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <h3> 🤝🏻 Connect with Me </h3>
