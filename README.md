@@ -14,7 +14,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python  
-- 🌐 &nbsp; HTML | CSS | Javascript | Bootstrap | SASS
+- 🌐 &nbsp; HTML | CSS | Javascript | Bootstrap | SASS | React | Redux
 - 🔧 &nbsp; PyCharm | Visual Studio code | Git
 
 <br>
