@@ -4,7 +4,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently working on my programming skills @microverseinc.
-- 🤔 &nbsp; I am looking forward to exploring and learn new technologies.
+- 🤔 &nbsp; Currently at @microverseinc I am learning Postgres, Ruby and Ruby on Rail.
 - 🎓 &nbsp; A Mathematics and Computing graduate.
 - 💼 &nbsp; Enthusiast front-end web developer.
 - 📫 You can contact me at njorogejohn261@gmail.com
