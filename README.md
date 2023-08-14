@@ -6,15 +6,15 @@
 - 🔭 &nbsp; I’m currently working on my programming skills @microverseinc.
 - 🤔 &nbsp; Currently at @microverseinc I am learning Postgres, Ruby and Ruby on Rails.
 - 🎓 &nbsp; A Mathematics and Computing graduate.
-- 💼 &nbsp; Enthusiast front-end web developer.
+- 💼 &nbsp; Enthusiast full-stack web developer and Blockchain developer.
 - 📫 You can contact me at njorogejohn261@gmail.com
 - ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python  
-- 🌐 &nbsp; HTML | CSS | Javascript | Bootstrap | SCSS | React | Redux
+- 💻 &nbsp; Ruby | Ruby on Rails | Solidity
+- 🌐 &nbsp; HTML | CSS | Javascript | Tailwind | SCSS | React | Redux
 - 🔧 &nbsp; PyCharm | Visual Studio code | Git
 
 <br>
