@@ -4,9 +4,9 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently working on my programming skills @microverseinc.
-- 🤔 &nbsp; Currently at @microverseinc I am learning Postgres, Ruby and Ruby on Rails.
+- 🤔 &nbsp; Currently at @microverseinc I am learning Postgres, Ruby, and Ruby on Rails.
 - 🎓 &nbsp; A Mathematics and Computing graduate.
-- 💼 &nbsp; EEnthusiastic full-stack web developer and passionate about Blockchain technology.
+- 💼 &nbsp; Enthusiastic full-stack web developer and passionate about Blockchain technology.
 - 📫 You can contact me at njorogejohn261@gmail.com
 - ✍️ &nbsp; Watching Anime and trying out the latest design trends as hobbies/side hustles.
 - ☕ &nbsp;  Firm believer in the soothing powers of a perfectly brewed cup of coffee. 
