@@ -6,16 +6,16 @@
 - 🔭 &nbsp; I’m currently working on my programming skills @microverseinc.
 - 🤔 &nbsp; Currently at @microverseinc I am learning Postgres, Ruby and Ruby on Rails.
 - 🎓 &nbsp; A Mathematics and Computing graduate.
-- 💼 &nbsp; Enthusiast full-stack web developer and Blockchain developer.
+- 💼 &nbsp; EEnthusiastic full-stack web developer and passionate about Blockchain technology.
 - 📫 You can contact me at njorogejohn261@gmail.com
-- ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
+- ✍️ &nbsp; Watching Anime and trying out the latest design trends as hobbies/side hustles.
+- ☕ &nbsp;  Firm believer in the soothing powers of a perfectly brewed cup of coffee. 
 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Ruby | Ruby on Rails | Solidity
-- 🌐 &nbsp; HTML | CSS | Javascript | Tailwind | SCSS | React | Redux
-- 🔧 &nbsp; PyCharm | Visual Studio code | Git
+- 🌐 &nbsp; HTML | CSS | Javascript | Tailwind | SCSS | React | Redux | Next js | Ether.js
+- 🔧 &nbsp; Visual Studio code | Git | Metamask | Thirdweb | Hardhat 
 
 <br>
 
